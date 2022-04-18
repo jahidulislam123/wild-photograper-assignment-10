@@ -27,10 +27,10 @@ const Header = () => {
       </NavDropdown>
     </Nav>
     <Nav>
-      <Nav.Link href="#deets">Login</Nav.Link>
       <Nav.Link eventKey={2} href="#memes">
         About
       </Nav.Link>
+      <Nav.Link href="#deets">Login</Nav.Link>
     </Nav>
   </Navbar.Collapse>
   </Container>
