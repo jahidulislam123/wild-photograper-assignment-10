@@ -8,12 +8,12 @@ import expert6 from '../../../../images/experts/expert6.jpg'
 import Expert from './Expert/Expert';
 
 const experts =[
-    {id:1,name: 'will smith', img: expert1},
-    {id:2,name: 'chris rock', img: expert2},
-    {id:3,name: 'Dwayne Rock ', img: expert3},
-    {id:4,name: 'Messy vai', img: expert4},
-    {id:5,name: 'Ronaldo Bro ', img: expert5},
-    {id:6,name: 'Stachy Jhonson', img: expert6}
+    {id:1,name: 'mr Romesh', img: expert1},
+    {id:2,name: 'Priya  doke', img: expert2},
+    {id:3,name: 'Lami  Rock ', img: expert3},
+    {id:4,name: 'Avi vai', img: expert4},
+    {id:5,name: 'pike algi ', img: expert5},
+    {id:6,name: 'shonan Jhonson', img: expert6}
 ]
 const Experts = () => {
     return (
