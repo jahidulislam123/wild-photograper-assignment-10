@@ -14,3 +14,11 @@
     margin: 0 auto;
     width: 50%;
 }
+
+.register-container {
+    background-color: rgb(108, 153, 153);
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    margin-top: 4px;
+    border-radius: 3px;
+}

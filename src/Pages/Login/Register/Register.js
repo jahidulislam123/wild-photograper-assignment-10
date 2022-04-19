@@ -6,6 +6,7 @@ import auth from '../../../firebase.init';
 import SocialLogin from '../../Shared/SocialLogin/SocialLogin';
 
 
+
 const Register = () => {
     const[agree,setAgree]=useState(false);
     const navigate =useNavigate();
@@ -49,7 +50,7 @@ const Register = () => {
     }
   
     return (
-        <div>
+        <div className='container register-container'>
              <div className='register-form'>
             <h2 style={{textAlign:'center'}}>Please Registration</h2>
             <form onSubmit={handleRegister}>

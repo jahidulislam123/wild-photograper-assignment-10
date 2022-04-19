@@ -3,6 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+## Live Site : 
+
+# what kind of things i have used to my projects 
+* React 
+* React bootstrap 
+* React Router
+* firebase authentication 
+* firebase authentication hooks 
+* toostyfy 
+
+
 
 In the project directory, you can run:
 
